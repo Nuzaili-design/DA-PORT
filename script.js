@@ -20,6 +20,7 @@ sr.reveal('.featured-text-info');
 sr.reveal('.top-header');
 sr.reveal('.about-info');
 sr.reveal('.project-box');
+sr.reveal('.project-header');
 sr.reveal('.contact-info');
 sr.reveal('.project-box', {
   interval: 200
