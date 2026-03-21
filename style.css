@@ -152,15 +152,9 @@ text-wrap: pretty;
 
   .project-desc {
 
-    
-  text-align: justify;
-  text-justify: inter-character; /* spreads letters instead of big word gaps */
+    text-align: left;
 
-  
-  word-break: break-word;
-  overflow-wrap: break-word;
-text-wrap: pretty;
-  overflow: hidden;
+    text-wrap: balance; /* Prevents single words on the last line */
 
   }
 
