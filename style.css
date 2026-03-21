@@ -148,7 +148,23 @@ h4 {
 text-wrap: pretty;
   overflow: hidden;
 }
+@media (max-width: 600px) {
 
+  .project-desc {
+
+    
+  text-align: justify;
+  text-justify: inter-character; /* spreads letters instead of big word gaps */
+
+  
+  word-break: break-word;
+  overflow-wrap: break-word;
+text-wrap: pretty;
+  overflow: hidden;
+
+  }
+
+}
 /* =============== HERO / FEATURED =============== */
 .featured-box{
   background: #0f0c29;  /* fallback */
