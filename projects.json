@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Telco Customer Churn Analysis",
+    "visible": true,
+    "description": "A Power BI dashboard analyzing customer churn in a telecom company. It highlights churn rate, contract types, payment methods, and customer retention",
+    "image": "img/Telco.png",
+    "type": "powerbi",
+    "link": "https://app.powerbi.com/view?r=eyJrIjoiMDE1NGM0ZDAtM2Y0YS00NjFmLWI3YTAtZGMzNGQ3OGY1MDQ4IiwidCI6IjAwZTczYzA2LTQ2NmUtNDk1MS05YjJjLWIxMTI3N2RkNjIzMiIsImMiOjl9"
+  }
+  ,
+   {
+    "title": "Pizza Sales Dashboard",
+    "visible": true,
+    "description": "A Power BI dashboard analyzing pizza sales in 2015, highlighting sales trends, customer ordering patterns, peak periods, product performance, and revenue insights",
+    "image": "img/Pizza.png",
+    "type": "powerbi",
+    "link": "https://app.powerbi.com/view?r=eyJrIjoiYmYzMGM0MWYtZGJlMS00ODdlLTkyODEtZTdjNGM3ODEzMTlmIiwidCI6IjAwZTczYzA2LTQ2NmUtNDk1MS05YjJjLWIxMTI3N2RkNjIzMiIsImMiOjl9"
+  }
+  ,
+   {
+    "title": "Saudi Arabia Used Cars",
+    "visible": true,
+    "description": "A Power BI dashboard exploring the Saudi used car market (2010–2021), highlighting prices, top cities, leading brands, and key trends such as Toyota’s market dominance",
+    "image": "img/Used.png",
+    "type": "powerbi",
+    "link": "https://app.powerbi.com/view?r=eyJrIjoiMTRkOGQxMDYtNzdlZC00ZmQ2LTljNDUtMDg0YTM3ZDk4YTM2IiwidCI6IjAwZTczYzA2LTQ2NmUtNDk1MS05YjJjLWIxMTI3N2RkNjIzMiIsImMiOjl9"
+  }
+  
+  ,
+  {
+    "title": "Coffee Bean Data Analysis",
+    "visible": true,
+    "description": "A Power BI dashboard analyzing coffee bean sales in Saudi Arabia (2023–2024), highlighting sales trends, customer behavior, product performance, and discount impact",
+    "image": "img/Coffee.png",
+    "type": "powerbi",
+    "link": "https://app.powerbi.com/view?r=eyJrIjoiMmVkNDFiYWItMmMyNi00MGRlLThlZDUtZWM1YzBmOGQyNWJkIiwidCI6IjAwZTczYzA2LTQ2NmUtNDk1MS05YjJjLWIxMTI3N2RkNjIzMiIsImMiOjl9"
+  },
+  {
+    "title": "Data Jobs Breakdown",
+    "visible": true,
+    "description": "A survey of data professionals, with data cleaned in Power Query and insights on salary .Happiness scores: With salary: 4.27 out of 10 ,With work life balance: 5.74 out of 10",
+    "image": "img/Survey.png",
+    "type": "powerbi",
+    "link": "https://app.powerbi.com/view?r=eyJrIjoiNTE1ODM1ZjQtYWVmYy00OTBkLTkxMWEtOGUwMjFkZmVlMjQ0IiwidCI6IjAwZTczYzA2LTQ2NmUtNDk1MS05YjJjLWIxMTI3N2RkNjIzMiIsImMiOjl9"
+  }
+  ,
+  {
+    "title": "Mental Health of Remote Worker",
+    "visible": true,
+    "description": "This Power BI project explores the relationship between remote work, mental health status, and sleep patterns across different countries and genders",
+    "image": "img/RemoteWork.png",
+    "type": "powerbi",
+    "link": "https://app.powerbi.com/view?r=eyJrIjoiNzA0MjY4NjctZTc5ZS00NWVjLWI0NmYtZWJmM2ViZmUwZGUyIiwidCI6IjAwZTczYzA2LTQ2NmUtNDk1MS05YjJjLWIxMTI3N2RkNjIzMiIsImMiOjl9"
+  }
+  ,
+  {
+    "title": "Actual Sales vs. Target Sales",
+    "visible": true,
+    "description": "A dashboard comparing actual sales to targets across months, products, and customer segments. It highlights total sales, target percentage, and sales teams contributions",
+    "image": "img/Target.png",
+    "type": "powerbi",
+    "link": "https://app.powerbi.com/view?r=eyJrIjoiN2Y2MGMxNTMtYTY2OC00NGViLWIzMzYtMGYyOTVhMWFiZmJmIiwidCI6IjAwZTczYzA2LTQ2NmUtNDk1MS05YjJjLWIxMTI3N2RkNjIzMiIsImMiOjl9"
+  }
+  ,
+  {
+    "title": "Car Sales and Service",
+    "visible": true,
+    "description": "This project analyzes car dealership sales, focusing on multiple critical areas such as profits, recalls, and customer sentiment using IBM Cognos Analytics.",
+    "image": "img/car.png",
+    "type": "youtube",
+    "link": "https://www.youtube.com/embed/Pkmi3zuSxTU"
+  },{
+  "title": "Sales Analytics Dashboard",
+  "visible": false,
+  "description": "Built an automated, end-to-end BI solution to track global sales and profitability. Engineered a robust star-schema model to resolve 50% of manual reporting bottlenecks and deliver actionable performance insights.",
+  "image": "img/Sales1.jpeg",
+  "type": "image",
+  "link": "" 
+},
+
+{
+  "title": "Saudi Birth Names Analysis",
+  "visible": false,
+  "description": "Analysis of 4,000+ birth records using advanced Power Query and DAX. Built a multi-table data model to visualize name frequencies and gender distributions, transforming raw Excel data into interactive demographic insights.",
+  "image": "img/Names.jpeg",
+  "type": "image",
+  "link": "" 
+},
+{
+  "title": "Power Bi Design",
+  "visible": false,
+  "description": "This project analyzes car dealership sales, focusing on multiple critical areas such as profits, recalls, and customer sentiment using IBM Cognos Analytics.",
+  "image": "img/Telco.png",
+  "images": ["img/car.png", "img/Telco.png", "img/car.png"],
+  "type": "gallery"
+},
+{
+  "title": "Data Cleaning & Standardization",
+  "visible": false,
+  "description": "Transformed raw data into a reliable, structured model. Used Power Query to clean, standardize, and extract insights, enabling clear visualization of employee performance, monthly targets, and 12-month cumulative trends.",
+  "image": "img/clean.png",
+  "type": "video",
+  "link": "img/Cleaning.mp4"
+}
+
+]
